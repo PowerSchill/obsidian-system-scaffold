@@ -1,9 +1,12 @@
 ---
 created: 2024-05-25
-modified: 2024-05-25
+modified: 2024-05-26
 ---
 
 # README
+
+>[!caution]
+>GitHub is unable to render the Obsidian custom syntax, especially DataView, so I recommend downloading this repository and opening it in Obsidian.
 
 Welcome to my **Personal System**, which is an Obsidian Vault. Its purpose is to organize my life and bring order to chaos.
 

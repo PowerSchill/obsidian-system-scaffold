@@ -1,0 +1,37 @@
+{
+  "foldHeading": true,
+  "showFrontmatter": false,
+  "defaultViewMode": "preview",
+  "livePreview": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "00-09 System/01 Inbox/01.02 Attachments",
+  "spellcheckDictionary": [
+    "Minecraft"
+  ],
+  "legacyEditor": false,
+  "useTab": true,
+  "trashOption": "local",
+  "newFileFolderPath": "10-19 Atomic/00 Inbox",
+  "readableLineLength": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "vimMode": false,
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "editor:configure-toolbar"
+  ],
+  "tabSize": 2,
+  "showProperties": true,
+  "propertiesInDocument": "hidden",
+  "showUnsupportedFiles": true,
+  "showInlineTitle": false,
+  "mobilePullAction": "command-palette:open",
+  "showRibbon": true
+}

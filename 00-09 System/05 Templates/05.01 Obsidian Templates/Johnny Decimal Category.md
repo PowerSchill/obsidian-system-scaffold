@@ -1,16 +1,13 @@
 ---
 class: JD.Category
-created: 2024-05-11
-modified: 2024-05-26
+id:
 banner: "![[home.jpeg]]"
 banner_icon: 📇
 banner_x: 0.5
 banner_y: 0.44
-description: "This is where content that is no longer active but still needed is stored. "
-id: 09
 ---
 
-# 09 Archive
+# <% tp.file.title %>
 
 ```dataviewjs
 dv.table(["File", "Storage Location"],

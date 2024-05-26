@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "0ae634e6c1e02501",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef5bbbe5ce0629f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b08cbce0e2aa468f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9908535cbff749da",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab27cb8649f0d45f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "250d9d88901dbce7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "724b947054328253",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41d41ddc022e9699",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43e265bcac8690ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "734812bc97959840",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "273a9c8440cbc8c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c19af45329c02d4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dd5646ee7dcbea21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5115d5d94147fa49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "9e687e6c90d3ae8b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b08cbce0e2aa468f",
+  "lastOpenFiles": [
+    "00-09 System/04 Standard Operating Procedures/04.11 Readwise SOP/04.11 Obsidian Export.md",
+    "00-09 System/06 Scripts/06.01 Obsidian Shortcuts/06.01 Obsidian Shortcuts.md",
+    "00-09 System/06 Scripts/06.01 Obsidian Shortcuts",
+    "00-09 System/05 Templates/05.03 OmniFocus Templates/05.03 OmniFocus Templates.md",
+    "00-09 System/05 Templates/05.03 OmniFocus Templates",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Vehicle.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/TV Episode.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Software.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Readwise.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Project.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Programming.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Podcast.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Person.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Obsidian Index.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/OKR.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Movie.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Meeting Notes.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Location.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Journal.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/JD.ID.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/JD.Category.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/JD.Area.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Financial Account.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Entertainment.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Employment.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Default.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Book.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes/Atomic Note.md",
+    "00-09 System/05 Templates/05.02 Obsidian File Classes",
+    "00-09 System/05 Templates/05.01 Obsidian Templates",
+    "00-09 System/04 Standard Operating Procedures/04.11 Readwise SOP",
+    "00-09 System/04 Standard Operating Procedures/04.01 System Tasks"
+  ]
+}
