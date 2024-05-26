@@ -63,12 +63,12 @@ for (let group of dv
 for (let group of dv
   .pages('"00-09 System/02 Journal/02.01 Daily"')
   .where((p) => moment(p.file.name).format("YYYY-MM") == dv.current().file.name)
-  .where((p) => p.highlight != "")
-  .where((p) => p.highlight != null)
+  .where((p) => p.log-highlight != "")
+  .where((p) => p.log-highlight != null)
   .groupBy((p) => moment(p.file.name).format("YYYY-MM"))) {
   dv.table(
     ["Date", "Event"],
-    group.rows.map((g) => [g.file.link, g.highlight])
+    group.rows.map((g) => [g.file.link, g.log-highlight])
   );
 }
 ```
