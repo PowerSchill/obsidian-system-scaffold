@@ -1,4 +1,22 @@
 {
   "accentColor": "",
-  "cssTheme": "AnuPpuccin"
+  "baseFontSize": 13,
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "tagpills",
+    "timeline",
+    "supercharged-links-gen",
+    "calendar stuff",
+    "cards",
+    "dashboard",
+    "extended-colorschemes",
+    "minimal_darkmode",
+    "obsidian_button",
+    "properties_fix"
+  ],
+  "translucency": false,
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "theme": "system",
+  "showViewHeader": true
 }

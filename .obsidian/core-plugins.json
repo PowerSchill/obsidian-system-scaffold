@@ -9,13 +9,13 @@
   "tag-pane",
   "properties",
   "page-preview",
-  "daily-notes",
   "templates",
   "note-composer",
   "command-palette",
   "editor-status",
   "bookmarks",
   "outline",
-  "word-count",
-  "file-recovery"
+  "workspaces",
+  "file-recovery",
+  "sync"
 ]

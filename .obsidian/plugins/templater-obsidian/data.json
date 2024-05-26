@@ -1,0 +1,36 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "00-09 System/05 Templates/05.01 Obsidian Templates",
+  "templates_pairs": [
+    [
+      "getWeather",
+      "curl \"https://wttr.in/?u&format=%l:+%c+%t+%w\""
+    ],
+    [
+      "sunrise",
+      "curl \"wttr.in/?format=%S%20-%20%s\\n\""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "10-19 Atomic/13 Places",
+      "template": "90-99 Metadata/91 Templates/91.02 Input/Location.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true,
+  "template_folder": "Templates"
+}

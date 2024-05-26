@@ -1,0 +1,19 @@
+{
+  "folder": "30-39 Entertainment/36 Books/36.01 Inbox",
+  "fileNameFormat": "",
+  "frontmatter": "",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "00-09 System/05 Templates/05.01 Obsidian Templates/Book.md",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default",
+  "apiKey": "",
+  "openPageOnCompletion": true,
+  "showCoverImageInSearch": true,
+  "enableCoverImageSave": false,
+  "coverImagePath": "",
+  "askForLocale": false
+}

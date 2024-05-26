@@ -1,4 +1,13 @@
 [
   "dataview",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-linter",
+  "folder-notes",
+  "callout-manager",
+  "callout-suggestions",
+  "metadata-menu",
+  "obsidian-book-search-plugin",
+  "periodic-notes",
+  "readwise-official",
+  "templater-obsidian"
 ]
