@@ -21,7 +21,31 @@ fields:
       template: ""
     path: ""
     id: 9wGWsx
-version: "2.18"
+  - name: recommendations
+    type: Select
+    options:
+      sourceType: ValuesList
+      valuesList:
+        "1": 🔍🔍🔍🔍🔍
+        "2": 🔍🔍🔍🔍
+        "3": 🔍🔍🔍
+        "4": 🔍🔍
+        "5": 🔍
+    path: ""
+    id: 5AIEQJ
+  - name: rating
+    type: Select
+    options:
+      sourceType: ValuesList
+      valuesList:
+        "1": ⭐️⭐️⭐️⭐️⭐️
+        "2": ⭐️⭐️⭐️⭐️
+        "3": ⭐️⭐️⭐️
+        "4": ⭐️⭐️
+        "5": ⭐️
+    path: ""
+    id: qM2Z3e
+version: "2.25"
 limit: 20
 mapWithTag: false
 icon: map-pinned
@@ -33,12 +57,10 @@ extends:
 savedViews: []
 favoriteView: 
 fieldsOrder:
+  - qM2Z3e
+  - 5AIEQJ
   - pQvodw
   - 9wGWsx
   - 8N2nZf
   - Iu22FK
 ---
-
-Address:: {"type":"Input","options":{}}
-Latitude:: {"type":"Number","options":{"min":"-90","max":"90"}}
-Longitude:: {"type":"Number","options":{"min":"-180","max":"180"}}

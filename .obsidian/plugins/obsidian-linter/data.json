@@ -270,7 +270,7 @@
     "00-09 System/05 Templates"
   ],
   "linterLocale": "system-default",
-  "logLevel": "DEBUG",
+  "logLevel": "ERROR",
   "lintCommands": [],
   "customRegexes": [],
   "commonStyles": {
