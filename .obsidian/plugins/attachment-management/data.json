@@ -1,0 +1,46 @@
+{
+  "attachPath": {
+    "attachmentRoot": "",
+    "saveAttE": "nextToNote",
+    "attachmentPath": "",
+    "attachFormat": "${notename}_resource",
+    "type": "GLOBAL",
+    "extensionOverride": []
+  },
+  "dateFormat": "YYYY-MM-DD",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": true,
+  "excludedPaths": "00-09 System",
+  "excludePathsArray": [
+    "00-09 System"
+  ],
+  "excludeSubpaths": true,
+  "originalNameStorage": [],
+  "overridePath": {
+    "00-09 System/05 Templates": {
+      "attachmentRoot": "",
+      "saveAttE": "obsFolder",
+      "attachmentPath": "${notepath}",
+      "attachFormat": "${notename}-${date}",
+      "type": "FOLDER",
+      "extensionOverride": []
+    },
+    "00-09 System/05 Templates/05.05 Banner Images": {
+      "attachmentRoot": "",
+      "saveAttE": "nextToNote",
+      "attachmentPath": "${notepath}",
+      "attachFormat": "${notename}-${date}",
+      "type": "FOLDER",
+      "extensionOverride": [
+        {
+          "extension": "",
+          "saveAttE": "nextToNote",
+          "attachmentRoot": "",
+          "attachmentPath": "${notepath}",
+          "attachFormat": "${notename}-${date}"
+        }
+      ]
+    }
+  },
+  "disableNotification": false
+}

@@ -1,6 +1,9 @@
 ---
 created: 2024-05-25
 modified: 2024-05-26
+class: 
+class: Atomic Note
+id: 0
 ---
 
 # README

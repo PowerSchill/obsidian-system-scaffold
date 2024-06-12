@@ -20,7 +20,7 @@ labels:
   ]
 series:
   - title:
- data: [5, 5, 5, 5, 5, 5, 5, 5]
+    data: [5, 5, 5, 5, 5, 5, 5, 5]
 tension: 0.2
 width: 80%
 labelColors: true
@@ -84,13 +84,13 @@ How am I doing on quarterly plan action items?
 
 ### The Prompts
 
-- What was the most delightful moment last month?
-- What was the big win last month?
-- What went wrong last month, and what lessons did I learn?
-- What was the best use of my time last month?
-- What was the worst use of my time last month?
-- What am I looking forward to?
-- Anything else?
+- **What was the most delightful moment this month?**
+- **What was the big win last month?**
+- **What went wrong last month, and what lessons did I learn?**
+- **What was the best use of my time last month?**
+- **What was the worst use of my time last month?**
+- **What am I looking forward to?**
+- **Anything else?**
 
 ### Roles Review
 

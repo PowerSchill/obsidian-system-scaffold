@@ -15,12 +15,12 @@
   "auto_jump_to_cursor": true,
   "enable_system_commands": true,
   "shell_path": "",
-  "user_scripts_folder": "",
+  "user_scripts_folder": "00-09 System/05 Templates/05.04 Templater Scripts",
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "10-19 Atomic/13 Places",
-      "template": "90-99 Metadata/91 Templates/91.02 Input/Location.md"
+      "folder": "10-19 Atomic/00 Inbox",
+      "template": "00-09 System/05 Templates/05.01 Obsidian Templates/Atomic.md"
     }
   ],
   "syntax_highlighting": true,

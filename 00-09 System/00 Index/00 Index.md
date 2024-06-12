@@ -2,11 +2,11 @@
 class: JD.Category
 created: 2024-05-25
 modified: 2024-05-25
-banner: "![[home.jpeg]]"
+banner: "![[index.jpg]]"
 banner_icon: 📇
 banner_x: 0.5
 banner_y: 0.44
-id: 
+id:
 description: Stores the indexes used to retrieve data.
 ---
 

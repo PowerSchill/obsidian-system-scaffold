@@ -24,8 +24,6 @@ aliases:
 >>[!example]- Weather
 >><!--weather-->
 
-
-
 ## On This Day
 
 ```dataview
@@ -34,9 +32,13 @@ FROM "00-09 System/02 Journal/02.01 Daily"
 WHERE dateformat(file.day, "MM-dd") = dateformat(this.file.day, "MM-dd")
 ```
 
+<% tp.user.daily_quote() %>
+
 ## Daily Plan
 
 <!--calendar-->
+
+<!--tasks-->
 
 What three tasks do I want to accomplish today?
 

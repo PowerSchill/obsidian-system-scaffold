@@ -2,7 +2,7 @@
 class: JD.Category
 created: 2024-05-08
 modified: 2024-05-08
-banner: "![[home.jpeg]]"
+banner: "![[index.jpg]]"
 banner_icon: 📇
 banner_x: 0.5
 banner_y: 0.44

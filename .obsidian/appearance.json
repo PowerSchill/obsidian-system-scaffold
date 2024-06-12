@@ -12,7 +12,8 @@
     "extended-colorschemes",
     "minimal_darkmode",
     "obsidian_button",
-    "properties_fix"
+    "properties_fix",
+    "author_callout"
   ],
   "translucency": false,
   "textFontFamily": "",
