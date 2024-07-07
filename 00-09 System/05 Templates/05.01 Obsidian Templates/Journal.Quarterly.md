@@ -140,16 +140,7 @@ date: <% moment(tp.file.title, "YYYY-[Q]Q").startOf("quarter").format("YYYY-MM-D
 7. **What should I stop doing?**
 8. **What action will I take to improve on that role in the next quarter?**
 
-### [[Arete#Creative Person|Creative Person]]
 
-1. **Is this role still appropriate?**
-2. **What is my arete NOW for this role?**
-3. **How did I do last quarter?**
-4. **How do I want to improve in the next 90 days?**
-5. **What should I do more of?**
-6. **What should I do less of?**
-7. **What should I stop doing?**
-8. **What action will I take to improve on that role in the next quarter?**
 
 ### [[Arete#Reliable Human|Reliable Human]]
 

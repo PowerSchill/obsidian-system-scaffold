@@ -1,8 +1,7 @@
 ---
-created: 2024-05-25
-modified: 2024-05-26
-class: 
 class: Atomic Note
+created: 2024-05-25
+modified: 2024-06-16
 id: 0
 ---
 

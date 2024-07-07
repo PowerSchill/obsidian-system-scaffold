@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"group","id":"c4e860904fec418e","x":-1480,"y":480,"width":5440,"height":880,"color":"2","label":"Queued"},
+		{"type":"group","id":"0ef06ad9d630868b","x":-1480,"y":-480,"width":5440,"height":880,"color":"4","label":"Reading"},
+		{"type":"group","id":"cc811bafbc15e8df","x":480,"y":-640,"width":1520,"height":3040,"color":"6","label":"Medium"},
+		{"type":"group","id":"ed44c327d3390dc3","x":-1120,"y":-640,"width":1520,"height":3040,"color":"6","label":"High"},
+		{"type":"group","id":"9877c5a447248bdd","x":2080,"y":-640,"width":1520,"height":3040,"color":"6","label":"Low"},
+		{"type":"group","id":"d2cfcb42f61a2d76","x":-1480,"y":1440,"width":5440,"height":800,"color":"3","label":"Waiting"},
+		{"type":"file","file":"00-09 System/00 Index/Priority Books.md","id":"25e6e93fd410c851","x":4080,"y":-640,"width":1280,"height":3040,"color":"4"},
+		{"type":"file","file":"30-39 Entertainment/36 Books/36.00 Index/00.11 Books Read.md","id":"85b43443b63b47d0","x":5440,"y":-640,"width":1280,"height":3040},
+		{"id":"37bbd39c0c25dd26","type":"file","file":"30-39 Entertainment/36 Books/36.14 Fiction/Columbus Day - Craig Alanson.md","x":520,"y":1520,"width":400,"height":400},
+		{"type":"file","file":"30-39 Entertainment/36 Books/36.00 Index/00.11 Books To Read.md","id":"aaf4382a795907d7","x":-6060,"y":-720,"width":3440,"height":3040,"color":"5"}
+	],
+	"edges":[]
+}

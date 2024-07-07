@@ -10,16 +10,15 @@ aliases:
 
 > [!Info]+
 >>[!example]- Dates
->>Week:: [[{{date:YYYY}}-W{{date:ww}}]]  
->>Eternal Week:: [[Week {{date:ww}}]]  
->>Month:: [[{{date:YYYY-MM}}]]  
->>Eternal Month:: [[{{date:MMMM}}]]  
->>Eternal Quarter:: [[Quarter {{date:Q}}]]  
->>Quarter:: [[{{date:YYYY}}-Q{{date:Q}}]]  
->>Weekday:: [[{{date:dddd}}]]  
->>Day:: [[{{date:MM-DD}}]]  
->>Yesterday:: [[{{yesterday}}]]  
->>Tomorrow:: [[{{tomorrow}}]]
+>>Eternal Week:: [[Week <% tp.date.now("ww", 0, tp.file.title, "YYYY-MM-DD") %>]]
+>>Month:: [[<% tp.date.now("YYYY-MM", 0, tp.file.title, "YYYY-MM-DD") %>]]
+>>Eternal Month:: [[<% tp.date.now("MMMM", 0, tp.file.title, "YYYY-MM-DD") %>]]
+>>Eternal Quarter:: [[Quarter <% tp.date.now("Q", 0, tp.file.title, "YYYY-MM-DD") %>]]
+>>Quarter:: [[<% tp.date.now("YYYY-[Q]Q", 0, tp.file.title, "YYYY-MM-DD") %>]]
+>>Weekday:: [[<% tp.date.now("dddd", 0, tp.file.title, "YYYY-MM-DD") %>]]
+>>Day:: [[<% tp.date.now("MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>]]
+>>Yesterday:: [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>]]
+>>Tomorrow:: [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>]]
 >
 >>[!example]- Weather
 >><!--weather-->
@@ -51,6 +50,7 @@ What is my top priority task for today?
 ## Notes
 
 >[!EXAMPLE]+ Notes Created Today
+>
 >```dataview
 >TABLE file.ctime AS Created, file.mtime as Modified, tags as Tags, class as Class, status as Status
 >FROM ""

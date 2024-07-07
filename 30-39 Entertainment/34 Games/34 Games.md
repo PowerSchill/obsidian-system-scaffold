@@ -2,12 +2,12 @@
 class: JD.Category
 created: 2024-05-26
 modified: 2024-05-26
-banner: "![[home.jpeg]]"
+banner: "![[index.jpg]]"
 banner_icon: 📇
 banner_x: 0.5
 banner_y: 0.44
 description: "This category stores gaming-related resources. "
-id: 
+id:
 ---
 
 # 34 Games

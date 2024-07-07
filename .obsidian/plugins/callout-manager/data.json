@@ -1,6 +1,9 @@
 {
   "callouts": {
-    "custom": [],
+    "custom": [
+      "quote",
+      "cite"
+    ],
     "settings": {}
   },
   "calloutDetection": {

@@ -1,14 +1,16 @@
 ---
 class: JD.Category
-created: 2024-05-09
-modified: 2024-05-09
+created: 2024-06-08
+modified: 2024-06-08
 banner: "![[index.jpg]]"
 banner_icon: 📇
 banner_x: 0.5
 banner_y: 0.44
+id: 
+description: Music
 ---
 
-# 33 Movies
+# 38 Music
 
 ```dataviewjs
 dv.table(["File", "Storage Location"],

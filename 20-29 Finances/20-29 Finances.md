@@ -2,7 +2,7 @@
 class: JD.Area
 created: 2024-05-07
 modified: 2024-05-10
-banner: "![[home.jpeg]]"
+banner: "![[index.jpg]]"
 banner_icon: 📇
 banner_x: 0.5
 banner_y: 0.44
